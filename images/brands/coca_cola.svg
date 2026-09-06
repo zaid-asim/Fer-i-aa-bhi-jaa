@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <circle cx="50" cy="50" r="48" fill="#F40009"/>
+  <!-- Classic Coca-Cola Script styling -->
+  <path d="M22 54 C28 50 36 48 48 48 C44 44 42 36 50 36 C56 36 56 42 52 48 C60 48 70 45 78 42 C72 47 62 51 50 51 C54 56 62 60 70 58 C62 64 46 63 40 56 C34 57 26 60 22 54 Z" fill="#FFFFFF"/>
+  <text x="50" y="55" font-family="'Brush Script MT', 'Bickham Script Pro', cursive, sans-serif" font-style="italic" font-size="20" font-weight="900" fill="#FFFFFF" text-anchor="middle">Coca-Cola</text>
+</svg>
