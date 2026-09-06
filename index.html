@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Feri — Fresh Groceries & Brands Delivered</title>
+  <meta name="description" content="Feri delivers 500+ top FMCG brands to your door. Shop groceries, personal care, beverages & more at the best prices with same-day delivery.">
+  <meta name="theme-color" content="#0052FF">
+  <link rel="icon" type="image/svg+xml" href="images/ui/feri_logo.svg">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="css/tokens.css">
+  <link rel="stylesheet" href="css/base.css">
+  <link rel="stylesheet" href="css/animations.css">
+  <link rel="stylesheet" href="css/components.css">
+  <link rel="stylesheet" href="css/pages.css">
+</head>
+<body>
+
+  <!-- ═══ APP SHELL ═══ -->
+  <div id="app">
+
+    <!-- Top Navigation -->
+    <header class="top-nav" id="topNav">
+      <!-- Home Mode Header -->
+      <div class="home-nav-bar" id="homeNavBar">
+        <div class="home-nav-left">
+          <button class="nav-icon-btn hamburger-btn" id="menuToggleBtn" onclick="showToast('Menu', 'Quick access & categories', 'info'); playSound('click')" aria-label="Menu">
+            <svg width="22" height="16" viewBox="0 0 22 16" fill="#0F172A">
+              <rect width="22" height="2.5" rx="1.25"/>
+              <rect y="6.75" width="22" height="2.5" rx="1.25"/>
+              <rect y="13.5" width="22" height="2.5" rx="1.25"/>
+            </svg>
+          </button>
+          <a href="#/home" class="nav-brand-link" onclick="playSound('nav')">
+            <img src="images/ui/feri_logo.svg" alt="feri" class="nav-brand-logo-img">
+          </a>
+          <button class="nav-icon-btn bell-btn" onclick="showToast('Notifications (3)', '• 5% off on HUL products\n• Order #12345 delivered\n• New launches from Nestlé', 'info'); playSound('click')" aria-label="Notifications">
+            <i class="far fa-bell"></i>
+            <span class="bell-pill-badge">3</span>
+          </button>
+        </div>
+
+        <div class="home-nav-right">
+          <div class="store-selector-pill" onclick="showToast('Active Store', 'New Shree Kirana — Open now', 'info'); playSound('click')">
+            <img src="images/ui/store_avatar.svg" alt="Store" class="store-pill-img">
+            <span class="store-pill-label">New Shree Kirana</span>
+            <i class="fas fa-chevron-down store-pill-arrow"></i>
+          </div>
+        </div>
+      </div>
+
+      <!-- Detail Page Header (shown on non-home pages) -->
+      <div class="detail-nav-bar" id="detailNavBar" style="display:none;">
+        <button class="nav-back-btn" id="navBack" aria-label="Go back">
+          <i class="fas fa-arrow-left"></i>
+        </button>
+        <div class="nav-center" id="navSearchBar">
+          <h2 class="page-title" id="pageTitle" style="margin:0; font-size:18px;"></h2>
+        </div>
+        <div class="nav-right">
+          <button class="nav-icon-btn cart-nav-btn" onclick="navigateTo('/cart'); playSound('click')" aria-label="Cart" title="Cart">
+            <i class="fas fa-shopping-cart"></i>
+            <span class="nav-badge cart-badge" id="cartBadge">0</span>
+          </button>
+        </div>
+      </div>
+    </header>
+
+    <!-- Page Content -->
+    <main id="pageContent" class="page-content" role="main"></main>
+
+    <!-- Bottom Navigation -->
+    <nav class="bottom-nav" id="bottomNav" role="navigation" aria-label="Main navigation">
+      <div class="bnav-tabs-container">
+        <a href="#/home" class="bnav-item active" data-page="home" id="bnav-home" onclick="playSound('nav')">
+          <div class="bnav-icon-wrap">
+            <i class="fas fa-home"></i>
+          </div>
+          <span>Home</span>
+        </a>
+        <a href="#/search" class="bnav-item" data-page="categories" id="bnav-categories" onclick="navigateTo('/search'); playSound('nav')">
+          <div class="bnav-icon-wrap">
+            <i class="fas fa-th-large"></i>
+          </div>
+          <span>Categories</span>
+        </a>
+        <a href="#/cart" class="bnav-item" data-page="cart" id="bnav-cart" onclick="navigateTo('/cart'); playSound('nav')">
+          <div class="bnav-icon-wrap bnav-cart-wrap">
+            <i class="fas fa-shopping-cart"></i>
+            <span class="bnav-badge" id="bnavCartBadge">5</span>
+          </div>
+          <span>Cart</span>
+        </a>
+        <a href="#/orders" class="bnav-item" data-page="orders" id="bnav-orders" onclick="navigateTo('/orders'); playSound('nav')">
+          <div class="bnav-icon-wrap">
+            <i class="far fa-clipboard"></i>
+          </div>
+          <span>Orders</span>
+        </a>
+        <a href="#/profile" class="bnav-item" data-page="profile" id="bnav-profile" onclick="navigateTo('/profile'); playSound('nav')">
+          <div class="bnav-icon-wrap">
+            <i class="far fa-user"></i>
+          </div>
+          <span>Account</span>
+        </a>
+      </div>
+    </nav>
+
+    <!-- Toast Notifications -->
+    <div id="toastContainer" class="toast-container" aria-live="polite"></div>
+
+    <!-- Modal System -->
+    <div id="modalOverlay" class="modal-overlay" onclick="closeModal()"></div>
+    <div id="modalContainer" class="modal-container" role="dialog" aria-modal="true"></div>
+
+    <!-- Confetti Canvas -->
+    <canvas id="confettiCanvas" class="confetti-canvas" style="pointer-events:none;"></canvas>
+
+  </div>
+
+  <script src="js/data.js"></script>
+  <script src="js/store.js"></script>
+  <script src="js/sound.js"></script>
+  <script src="js/animations.js"></script>
+  <script src="js/router.js"></script>
+  <script src="js/notifications.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

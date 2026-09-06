@@ -1,0 +1,1504 @@
+[
+  {
+    "id": "p1",
+    "name": "Parle-G Gold Biscuits",
+    "brand": "Parle",
+    "category": "Snacks & Biscuits",
+    "price": 30,
+    "mrp": 30,
+    "weight": "800g",
+    "rating": 4.8,
+    "urls": [
+      "https://www.bbassets.com/media/uploads/p/l/40204957_3-parle-parle-marie.jpg",
+      "https://5.imimg.com/data5/ECOM/Default/2024/6/428116321/MG/JK/NB/85949022/617hydpapll-sl1100-2-1000x1000.jpg"
+    ],
+    "local_image": "/images/products/p1.jpg",
+    "status": "OK"
+  },
+  {
+    "id": "p2",
+    "name": "Parle Monaco Classic Salted",
+    "brand": "Parle",
+    "category": "Snacks & Biscuits",
+    "price": 30,
+    "mrp": 35,
+    "weight": "200g",
+    "rating": 4.5,
+    "urls": [
+      "https://www.bbassets.com/media/uploads/p/l/40204957_3-parle-parle-marie.jpg"
+    ],
+    "local_image": "/images/products/p2.jpg",
+    "status": "OK"
+  },
+  {
+    "id": "p3",
+    "name": "Parle Krackjack Sweet & Salty",
+    "brand": "Parle",
+    "category": "Snacks & Biscuits",
+    "price": 20,
+    "mrp": 25,
+    "weight": "200g",
+    "rating": 4.4,
+    "urls": [
+      "https://www.bbassets.com/media/uploads/p/l/40204957_3-parle-parle-marie.jpg"
+    ],
+    "local_image": "/images/products/p3.jpg",
+    "status": "OK"
+  },
+  {
+    "id": "p4",
+    "name": "Parle Hide & Seek Chocolate",
+    "brand": "Parle",
+    "category": "Snacks & Biscuits",
+    "price": 40,
+    "mrp": 45,
+    "weight": "300g",
+    "rating": 4.6,
+    "urls": [
+      "https://images.openfoodfacts.org/images/products/890/106/302/6018/front_en.3.400.jpg"
+    ],
+    "local_image": null,
+    "status": "FAIL"
+  },
+  {
+    "id": "p5",
+    "name": "Frooti Mango Drink",
+    "brand": "Parle",
+    "category": "Beverages",
+    "price": 35,
+    "mrp": 40,
+    "weight": "600ml",
+    "rating": 4.5,
+    "urls": [
+      "https://images.openfoodfacts.org/images/products/890/106/302/6018/front_en.3.400.jpg"
+    ],
+    "local_image": null,
+    "status": "FAIL"
+  },
+  {
+    "id": "p6",
+    "name": "Britannia Good Day Butter",
+    "brand": "Britannia",
+    "category": "Snacks & Biscuits",
+    "price": 55,
+    "mrp": 60,
+    "weight": "400g",
+    "rating": 4.7,
+    "urls": [
+      "https://images.openfoodfacts.org/images/products/890/106/302/6018/front_en.3.400.jpg"
+    ],
+    "local_image": "/images/products/p6.jpg",
+    "status": "OK"
+  },
+  {
+    "id": "p7",
+    "name": "Britannia Good Day Cashew",
+    "brand": "Britannia",
+    "category": "Snacks & Biscuits",
+    "price": 90,
+    "mrp": 100,
+    "weight": "600g",
+    "rating": 4.7,
+    "urls": [
+      "https://images.openfoodfacts.org/images/products/890/106/302/6018/front_en.3.400.jpg"
+    ],
+    "local_image": null,
+    "status": "FAIL"
+  },
+  {
+    "id": "p8",
+    "name": "Britannia Marie Gold",
+    "brand": "Britannia",
+    "category": "Snacks & Biscuits",
+    "price": 55,
+    "mrp": 60,
+    "weight": "600g",
+    "rating": 4.6,
+    "urls": [
+      "https://images.openfoodfacts.org/images/products/890/106/302/6018/front_en.3.400.jpg"
+    ],
+    "local_image": null,
+    "status": "FAIL"
+  },
+  {
+    "id": "p9",
+    "name": "Britannia Bourbon Cream",
+    "brand": "Britannia",
+    "category": "Snacks & Biscuits",
+    "price": 50,
+    "mrp": 55,
+    "weight": "600g",
+    "rating": 4.5,
+    "urls": [
+      "https://images.openfoodfacts.org/images/products/890/106/302/6018/front_en.3.400.jpg"
+    ],
+    "local_image": null,
+    "status": "FAIL"
+  },
+  {
+    "id": "p10",
+    "name": "Britannia NutriChoice Digestive",
+    "brand": "Britannia",
+    "category": "Snacks & Biscuits",
+    "price": 60,
+    "mrp": 65,
+    "weight": "400g",
+    "rating": 4.4,
+    "urls": [
+      "https://images.openfoodfacts.org/images/products/890/106/302/6018/front_en.3.400.jpg"
+    ],
+    "local_image": "/images/products/p10.jpg",
+    "status": "OK"
+  },
+  {
+    "id": "p11",
+    "name": "Amul Butter Pasteurised",
+    "brand": "Amul",
+    "category": "Dairy & Breakfast",
+    "price": 259,
+    "mrp": 270,
+    "weight": "500g",
+    "rating": 4.9,
+    "urls": [
+      "https://www.bbassets.com/media/uploads/p/l/104864_8-amul-butter-pasteurised.jpg"
+    ],
+    "local_image": "/images/products/p11.jpg",
+    "status": "OK"
+  },
+  {
+    "id": "p12",
+    "name": "Amul Taaza Toned Milk",
+    "brand": "Amul",
+    "category": "Dairy & Breakfast",
+    "price": 60,
+    "mrp": 62,
+    "weight": "1L",
+    "rating": 4.7,
+    "urls": [
+      "https://www.bbassets.com/media/uploads/p/l/104864_8-amul-butter-pasteurised.jpg"
+    ],
+    "local_image": "/images/products/p12.jpg",
+    "status": "OK"
+  },
+  {
+    "id": "p13",
+    "name": "Amul Gold Full Cream Milk",
+    "brand": "Amul",
+    "category": "Dairy & Breakfast",
+    "price": 66,
+    "mrp": 68,
+    "weight": "1L",
+    "rating": 4.8,
+    "urls": [
+      "https://www.bbassets.com/media/uploads/p/l/104864_8-amul-butter-pasteurised.jpg"
+    ],
+    "local_image": "/images/products/p13.jpg",
+    "status": "OK"
+  },
+  {
+    "id": "p14",
+    "name": "Amul Processed Cheese Slices",
+    "brand": "Amul",
+    "category": "Dairy & Breakfast",
+    "price": 130,
+    "mrp": 140,
+    "weight": "200g",
+    "rating": 4.6,
+    "urls": [
+      "https://www.bbassets.com/media/uploads/p/l/104864_8-amul-butter-pasteurised.jpg"
+    ],
+    "local_image": "/images/products/p14.jpg",
+    "status": "OK"
+  },
+  {
+    "id": "p15",
+    "name": "Amul Masti Dahi",
+    "brand": "Amul",
+    "category": "Dairy & Breakfast",
+    "price": 62,
+    "mrp": 65,
+    "weight": "1kg",
+    "rating": 4.7,
+    "urls": [
+      "https://www.bbassets.com/media/uploads/p/l/104864_8-amul-butter-pasteurised.jpg"
+    ],
+    "local_image": "/images/products/p15.jpg",
+    "status": "OK"
+  },
+  {
+    "id": "p16",
+    "name": "Amul Pure Ghee",
+    "brand": "Amul",
+    "category": "Dairy & Breakfast",
+    "price": 310,
+    "mrp": 330,
+    "weight": "500ml",
+    "rating": 4.8,
+    "urls": [
+      "https://www.bbassets.com/media/uploads/p/l/104864_8-amul-butter-pasteurised.jpg"
+    ],
+    "local_image": "/images/products/p16.jpg",
+    "status": "OK"
+  },
+  {
+    "id": "p17",
+    "name": "Amul Dark Chocolate",
+    "brand": "Amul",
+    "category": "Snacks & Biscuits",
+    "price": 195,
+    "mrp": 220,
+    "weight": "150g",
+    "rating": 4.5,
+    "urls": [
+      "https://www.bbassets.com/media/uploads/p/l/104864_8-amul-butter-pasteurised.jpg"
+    ],
+    "local_image": "/images/products/p17.jpg",
+    "status": "OK"
+  },
+  {
+    "id": "p18",
+    "name": "Coca-Cola Original Taste",
+    "brand": "Coca-Cola",
+    "category": "Beverages",
+    "price": 45,
+    "mrp": 50,
+    "weight": "750ml",
+    "rating": 4.6,
+    "urls": [
+      "https://images.openfoodfacts.org/images/products/544/900/005/4227/front_en.563.400.jpg"
+    ],
+    "local_image": "/images/products/p18.jpg",
+    "status": "OK"
+  },
+  {
+    "id": "p19",
+    "name": "Thums Up Sparkling Cola",
+    "brand": "Coca-Cola",
+    "category": "Beverages",
+    "price": 45,
+    "mrp": 50,
+    "weight": "750ml",
+    "rating": 4.7,
+    "urls": [
+      "https://images.openfoodfacts.org/images/products/544/900/005/4227/front_en.563.400.jpg"
+    ],
+    "local_image": "/images/products/p19.jpg",
+    "status": "OK"
+  },
+  {
+    "id": "p20",
+    "name": "Sprite Clear Lime",
+    "brand": "Coca-Cola",
+    "category": "Beverages",
+    "price": 40,
+    "mrp": 45,
+    "weight": "750ml",
+    "rating": 4.5,
+    "urls": [
+      "https://images.openfoodfacts.org/images/products/544/900/005/4227/front_en.563.400.jpg"
+    ],
+    "local_image": "/images/products/p20.jpg",
+    "status": "OK"
+  },
+  {
+    "id": "p21",
+    "name": "Maaza Mango Drink",
+    "brand": "Coca-Cola",
+    "category": "Beverages",
+    "price": 35,
+    "mrp": 40,
+    "weight": "600ml",
+    "rating": 4.6,
+    "urls": [
+      "https://images.openfoodfacts.org/images/products/544/900/005/4227/front_en.563.400.jpg"
+    ],
+    "local_image": "/images/products/p21.jpg",
+    "status": "OK"
+  },
+  {
+    "id": "p22",
+    "name": "Limca Lime n Lemoni",
+    "brand": "Coca-Cola",
+    "category": "Beverages",
+    "price": 40,
+    "mrp": 45,
+    "weight": "750ml",
+    "rating": 4.4,
+    "urls": [
+      "https://images.openfoodfacts.org/images/products/544/900/005/4227/front_en.563.400.jpg"
+    ],
+    "local_image": "/images/products/p22.jpg",
+    "status": "OK"
+  },
+  {
+    "id": "p23",
+    "name": "Fanta Orange",
+    "brand": "Coca-Cola",
+    "category": "Beverages",
+    "price": 40,
+    "mrp": 45,
+    "weight": "750ml",
+    "rating": 4.3,
+    "urls": [
+      "https://images.openfoodfacts.org/images/products/544/900/005/4227/front_en.563.400.jpg"
+    ],
+    "local_image": "/images/products/p23.jpg",
+    "status": "OK"
+  },
+  {
+    "id": "p24",
+    "name": "Kinley Soda Water",
+    "brand": "Coca-Cola",
+    "category": "Beverages",
+    "price": 25,
+    "mrp": 30,
+    "weight": "750ml",
+    "rating": 4.3,
+    "urls": [
+      "https://images.openfoodfacts.org/images/products/544/900/005/4227/front_en.563.400.jpg"
+    ],
+    "local_image": null,
+    "status": "FAIL"
+  },
+  {
+    "id": "p25",
+    "name": "Pepsi Cola",
+    "brand": "PepsiCo",
+    "category": "Beverages",
+    "price": 40,
+    "mrp": 45,
+    "weight": "750ml",
+    "rating": 4.5,
+    "urls": [
+      "https://images.openfoodfacts.org/images/products/544/900/005/4227/front_en.563.400.jpg"
+    ],
+    "local_image": "/images/products/p25.jpg",
+    "status": "OK"
+  },
+  {
+    "id": "p26",
+    "name": "Mountain Dew Citrus Rush",
+    "brand": "PepsiCo",
+    "category": "Beverages",
+    "price": 40,
+    "mrp": 45,
+    "weight": "750ml",
+    "rating": 4.5,
+    "urls": [
+      "https://images.openfoodfacts.org/images/products/544/900/005/4227/front_en.563.400.jpg"
+    ],
+    "local_image": "/images/products/p26.jpg",
+    "status": "OK"
+  },
+  {
+    "id": "p27",
+    "name": "Mirinda Orange",
+    "brand": "PepsiCo",
+    "category": "Beverages",
+    "price": 35,
+    "mrp": 40,
+    "weight": "750ml",
+    "rating": 4.3,
+    "urls": [
+      "https://images.openfoodfacts.org/images/products/544/900/005/4227/front_en.563.400.jpg"
+    ],
+    "local_image": "/images/products/p27.jpg",
+    "status": "OK"
+  },
+  {
+    "id": "p28",
+    "name": "7UP Lemon Lime",
+    "brand": "PepsiCo",
+    "category": "Beverages",
+    "price": 35,
+    "mrp": 40,
+    "weight": "750ml",
+    "rating": 4.4,
+    "urls": [
+      "https://images.openfoodfacts.org/images/products/544/900/005/4227/front_en.563.400.jpg"
+    ],
+    "local_image": null,
+    "status": "FAIL"
+  },
+  {
+    "id": "p29",
+    "name": "Sting Energy Berry Blast",
+    "brand": "PepsiCo",
+    "category": "Beverages",
+    "price": 25,
+    "mrp": 30,
+    "weight": "250ml",
+    "rating": 4.4,
+    "urls": [
+      "https://images.openfoodfacts.org/images/products/544/900/005/4227/front_en.563.400.jpg"
+    ],
+    "local_image": null,
+    "status": "FAIL"
+  },
+  {
+    "id": "p30",
+    "name": "Lay's Magic Masala",
+    "brand": "PepsiCo",
+    "category": "Snacks & Biscuits",
+    "price": 30,
+    "mrp": 35,
+    "weight": "78g",
+    "rating": 4.7,
+    "urls": [
+      "https://images.openfoodfacts.org/images/products/890/149/136/1026/front_en.51.400.jpg"
+    ],
+    "local_image": "/images/products/p30.jpg",
+    "status": "OK"
+  },
+  {
+    "id": "p31",
+    "name": "Lay's Cream & Onion",
+    "brand": "PepsiCo",
+    "category": "Snacks & Biscuits",
+    "price": 30,
+    "mrp": 35,
+    "weight": "78g",
+    "rating": 4.6,
+    "urls": [
+      "https://images.openfoodfacts.org/images/products/890/149/136/1026/front_en.51.400.jpg"
+    ],
+    "local_image": "/images/products/p31.jpg",
+    "status": "OK"
+  },
+  {
+    "id": "p32",
+    "name": "Kurkure Masala Munch",
+    "brand": "PepsiCo",
+    "category": "Snacks & Biscuits",
+    "price": 40,
+    "mrp": 45,
+    "weight": "105g",
+    "rating": 4.6,
+    "urls": [
+      "https://images.openfoodfacts.org/images/products/890/149/136/1026/front_en.51.400.jpg"
+    ],
+    "local_image": "/images/products/p32.jpg",
+    "status": "OK"
+  },
+  {
+    "id": "p33",
+    "name": "Kurkure Chilli Chatka",
+    "brand": "PepsiCo",
+    "category": "Snacks & Biscuits",
+    "price": 40,
+    "mrp": 45,
+    "weight": "105g",
+    "rating": 4.5,
+    "urls": [
+      "https://images.openfoodfacts.org/images/products/890/149/136/1026/front_en.51.400.jpg"
+    ],
+    "local_image": "/images/products/p33.jpg",
+    "status": "OK"
+  },
+  {
+    "id": "p34",
+    "name": "Tropicana Mixed Fruit",
+    "brand": "PepsiCo",
+    "category": "Beverages",
+    "price": 120,
+    "mrp": 135,
+    "weight": "1L",
+    "rating": 4.5,
+    "urls": [
+      "https://images.openfoodfacts.org/images/products/544/900/005/4227/front_en.563.400.jpg"
+    ],
+    "local_image": "/images/products/p34.jpg",
+    "status": "OK"
+  },
+  {
+    "id": "p35",
+    "name": "Dove Cream Beauty Bar",
+    "brand": "HUL",
+    "category": "Personal Care",
+    "price": 70,
+    "mrp": 80,
+    "weight": "100g",
+    "rating": 4.8,
+    "urls": [
+      "https://assets.unileversolutions.com/v1/62941798.jpg"
+    ],
+    "local_image": "/images/products/p35.jpg",
+    "status": "OK"
+  },
+  {
+    "id": "p36",
+    "name": "Pears Soft & Fresh Soap",
+    "brand": "HUL",
+    "category": "Personal Care",
+    "price": 55,
+    "mrp": 60,
+    "weight": "125g",
+    "rating": 4.7,
+    "urls": [
+      "https://assets.unileversolutions.com/v1/62941798.jpg"
+    ],
+    "local_image": "/images/products/p36.jpg",
+    "status": "OK"
+  },
+  {
+    "id": "p37",
+    "name": "Lifebuoy Total Protect Soap",
+    "brand": "HUL",
+    "category": "Personal Care",
+    "price": 40,
+    "mrp": 45,
+    "weight": "125g",
+    "rating": 4.6,
+    "urls": [
+      "https://assets.unileversolutions.com/v1/62941798.jpg"
+    ],
+    "local_image": "/images/products/p37.jpg",
+    "status": "OK"
+  },
+  {
+    "id": "p38",
+    "name": "Lux Velvet Touch Soap",
+    "brand": "HUL",
+    "category": "Personal Care",
+    "price": 45,
+    "mrp": 50,
+    "weight": "125g",
+    "rating": 4.5,
+    "urls": [
+      "https://assets.unileversolutions.com/v1/62941798.jpg"
+    ],
+    "local_image": "/images/products/p38.jpg",
+    "status": "OK"
+  },
+  {
+    "id": "p39",
+    "name": "Sunsilk Lusciously Thick",
+    "brand": "HUL",
+    "category": "Personal Care",
+    "price": 280,
+    "mrp": 320,
+    "weight": "340ml",
+    "rating": 4.5,
+    "urls": [
+      "https://assets.unileversolutions.com/v1/62941798.jpg"
+    ],
+    "local_image": "/images/products/p39.jpg",
+    "status": "OK"
+  },
+  {
+    "id": "p40",
+    "name": "Clinic Plus Strong & Long",
+    "brand": "HUL",
+    "category": "Personal Care",
+    "price": 190,
+    "mrp": 220,
+    "weight": "340ml",
+    "rating": 4.4,
+    "urls": [
+      "https://assets.unileversolutions.com/v1/62941798.jpg"
+    ],
+    "local_image": "/images/products/p40.jpg",
+    "status": "OK"
+  },
+  {
+    "id": "p41",
+    "name": "Vaseline Original Petroleum Jelly",
+    "brand": "HUL",
+    "category": "Personal Care",
+    "price": 185,
+    "mrp": 210,
+    "weight": "250ml",
+    "rating": 4.7,
+    "urls": [
+      "https://assets.unileversolutions.com/v1/62941798.jpg"
+    ],
+    "local_image": "/images/products/p41.jpg",
+    "status": "OK"
+  },
+  {
+    "id": "p42",
+    "name": "Surf Excel Easy Wash",
+    "brand": "HUL",
+    "category": "Cleaning & Household",
+    "price": 315,
+    "mrp": 360,
+    "weight": "2kg",
+    "rating": 4.7,
+    "urls": [
+      "https://assets.unileversolutions.com/v1/62941798.jpg"
+    ],
+    "local_image": "/images/products/p42.jpg",
+    "status": "OK"
+  },
+  {
+    "id": "p43",
+    "name": "Rin Detergent Powder",
+    "brand": "HUL",
+    "category": "Cleaning & Household",
+    "price": 195,
+    "mrp": 220,
+    "weight": "1.5kg",
+    "rating": 4.5,
+    "urls": [
+      "https://assets.unileversolutions.com/v1/62941798.jpg"
+    ],
+    "local_image": "/images/products/p43.jpg",
+    "status": "OK"
+  },
+  {
+    "id": "p44",
+    "name": "Vim Dishwash Liquid Gel",
+    "brand": "HUL",
+    "category": "Cleaning & Household",
+    "price": 155,
+    "mrp": 170,
+    "weight": "750ml",
+    "rating": 4.6,
+    "urls": [
+      "https://assets.unileversolutions.com/v1/62941798.jpg"
+    ],
+    "local_image": "/images/products/p44.jpg",
+    "status": "OK"
+  },
+  {
+    "id": "p45",
+    "name": "Red Label Natural Care Tea",
+    "brand": "HUL",
+    "category": "Beverages",
+    "price": 250,
+    "mrp": 280,
+    "weight": "500g",
+    "rating": 4.6,
+    "urls": [
+      "https://assets.unileversolutions.com/v1/62941798.jpg"
+    ],
+    "local_image": "/images/products/p45.jpg",
+    "status": "OK"
+  },
+  {
+    "id": "p46",
+    "name": "Taj Mahal Premium Tea",
+    "brand": "HUL",
+    "category": "Beverages",
+    "price": 275,
+    "mrp": 310,
+    "weight": "500g",
+    "rating": 4.7,
+    "urls": [
+      "https://assets.unileversolutions.com/v1/62941798.jpg"
+    ],
+    "local_image": "/images/products/p46.jpg",
+    "status": "OK"
+  },
+  {
+    "id": "p47",
+    "name": "Bru Instant Coffee",
+    "brand": "HUL",
+    "category": "Beverages",
+    "price": 185,
+    "mrp": 215,
+    "weight": "200g",
+    "rating": 4.5,
+    "urls": [
+      "https://assets.unileversolutions.com/v1/62941798.jpg"
+    ],
+    "local_image": "/images/products/p47.jpg",
+    "status": "OK"
+  },
+  {
+    "id": "p48",
+    "name": "Kissan Mixed Fruit Jam",
+    "brand": "HUL",
+    "category": "Dairy & Breakfast",
+    "price": 130,
+    "mrp": 145,
+    "weight": "500g",
+    "rating": 4.5,
+    "urls": [
+      "https://assets.unileversolutions.com/v1/62941798.jpg"
+    ],
+    "local_image": "/images/products/p48.jpg",
+    "status": "OK"
+  },
+  {
+    "id": "p49",
+    "name": "Dabur Red Toothpaste",
+    "brand": "Dabur",
+    "category": "Personal Care",
+    "price": 90,
+    "mrp": 100,
+    "weight": "300g",
+    "rating": 4.6,
+    "urls": [
+      "https://assets.hyperpure.com/data/images/products/cdbb5abf71acf8ac95d399d630364e73.png"
+    ],
+    "local_image": "/images/products/p49.jpg",
+    "status": "OK"
+  },
+  {
+    "id": "p50",
+    "name": "Dabur Honey",
+    "brand": "Dabur",
+    "category": "Groceries & Staples",
+    "price": 199,
+    "mrp": 225,
+    "weight": "500g",
+    "rating": 4.7,
+    "urls": [
+      "https://assets.hyperpure.com/data/images/products/cdbb5abf71acf8ac95d399d630364e73.png"
+    ],
+    "local_image": "/images/products/p50.jpg",
+    "status": "OK"
+  },
+  {
+    "id": "p51",
+    "name": "Dabur Chyawanprash",
+    "brand": "Dabur",
+    "category": "Groceries & Staples",
+    "price": 290,
+    "mrp": 330,
+    "weight": "1kg",
+    "rating": 4.7,
+    "urls": [
+      "https://assets.hyperpure.com/data/images/products/cdbb5abf71acf8ac95d399d630364e73.png"
+    ],
+    "local_image": "/images/products/p51.jpg",
+    "status": "OK"
+  },
+  {
+    "id": "p52",
+    "name": "Dabur Amla Hair Oil",
+    "brand": "Dabur",
+    "category": "Personal Care",
+    "price": 180,
+    "mrp": 200,
+    "weight": "300ml",
+    "rating": 4.5,
+    "urls": [
+      "https://assets.hyperpure.com/data/images/products/cdbb5abf71acf8ac95d399d630364e73.png"
+    ],
+    "local_image": "/images/products/p52.jpg",
+    "status": "OK"
+  },
+  {
+    "id": "p53",
+    "name": "Dabur Hajmola Regular",
+    "brand": "Dabur",
+    "category": "Snacks & Biscuits",
+    "price": 55,
+    "mrp": 65,
+    "weight": "120 tabs",
+    "rating": 4.6,
+    "urls": [
+      "https://assets.hyperpure.com/data/images/products/cdbb5abf71acf8ac95d399d630364e73.png"
+    ],
+    "local_image": "/images/products/p53.jpg",
+    "status": "OK"
+  },
+  {
+    "id": "p54",
+    "name": "Aashirvaad Superior MP Atta",
+    "brand": "ITC",
+    "category": "Groceries & Staples",
+    "price": 480,
+    "mrp": 535,
+    "weight": "10kg",
+    "rating": 4.7,
+    "urls": [
+      "https://assets.hyperpure.com/data/images/products/cdbb5abf71acf8ac95d399d630364e73.png"
+    ],
+    "local_image": "/images/products/p54.jpg",
+    "status": "OK"
+  },
+  {
+    "id": "p55",
+    "name": "Sunfeast Dark Fantasy Choco Fills",
+    "brand": "ITC",
+    "category": "Snacks & Biscuits",
+    "price": 40,
+    "mrp": 45,
+    "weight": "75g",
+    "rating": 4.7,
+    "urls": [
+      "https://images.openfoodfacts.org/images/products/890/106/302/6018/front_en.3.400.jpg"
+    ],
+    "local_image": "/images/products/p55.jpg",
+    "status": "OK"
+  },
+  {
+    "id": "p56",
+    "name": "Sunfeast Mom's Magic Butter",
+    "brand": "ITC",
+    "category": "Snacks & Biscuits",
+    "price": 90,
+    "mrp": 100,
+    "weight": "600g",
+    "rating": 4.5,
+    "urls": [
+      "https://images.openfoodfacts.org/images/products/890/106/302/6018/front_en.3.400.jpg"
+    ],
+    "local_image": "/images/products/p56.jpg",
+    "status": "OK"
+  },
+  {
+    "id": "p57",
+    "name": "Bingo Mad Angles Achaari",
+    "brand": "ITC",
+    "category": "Snacks & Biscuits",
+    "price": 30,
+    "mrp": 35,
+    "weight": "130g",
+    "rating": 4.5,
+    "urls": [
+      "https://images.openfoodfacts.org/images/products/890/149/136/1026/front_en.51.400.jpg"
+    ],
+    "local_image": "/images/products/p57.jpg",
+    "status": "OK"
+  },
+  {
+    "id": "p58",
+    "name": "Sunfeast YiPPee! Masala Noodles",
+    "brand": "ITC",
+    "category": "Groceries & Staples",
+    "price": 95,
+    "mrp": 110,
+    "weight": "320g",
+    "rating": 4.4,
+    "urls": [
+      "https://assets.hyperpure.com/data/images/products/cdbb5abf71acf8ac95d399d630364e73.png"
+    ],
+    "local_image": "/images/products/p58.jpg",
+    "status": "OK"
+  },
+  {
+    "id": "p59",
+    "name": "Maggi 2-Minute Masala Noodles",
+    "brand": "Nestle",
+    "category": "Groceries & Staples",
+    "price": 14,
+    "mrp": 15,
+    "weight": "70g",
+    "rating": 4.8,
+    "urls": [
+      "https://assets.hyperpure.com/data/images/products/cdbb5abf71acf8ac95d399d630364e73.png"
+    ],
+    "local_image": "/images/products/p59.jpg",
+    "status": "OK"
+  },
+  {
+    "id": "p60",
+    "name": "Maggi Noodles 4-Pack",
+    "brand": "Nestle",
+    "category": "Groceries & Staples",
+    "price": 55,
+    "mrp": 60,
+    "weight": "4\u00d770g",
+    "rating": 4.8,
+    "urls": [
+      "https://assets.hyperpure.com/data/images/products/cdbb5abf71acf8ac95d399d630364e73.png"
+    ],
+    "local_image": "/images/products/p60.jpg",
+    "status": "OK"
+  },
+  {
+    "id": "p61",
+    "name": "Maggi Tomato Ketchup",
+    "brand": "Nestle",
+    "category": "Groceries & Staples",
+    "price": 155,
+    "mrp": 175,
+    "weight": "1kg",
+    "rating": 4.5,
+    "urls": [
+      "https://assets.hyperpure.com/data/images/products/cdbb5abf71acf8ac95d399d630364e73.png"
+    ],
+    "local_image": "/images/products/p61.jpg",
+    "status": "OK"
+  },
+  {
+    "id": "p62",
+    "name": "Nescafe Classic Coffee",
+    "brand": "Nestle",
+    "category": "Beverages",
+    "price": 340,
+    "mrp": 380,
+    "weight": "100g",
+    "rating": 4.7,
+    "urls": [
+      "https://assets.hyperpure.com/data/images/products/cdbb5abf71acf8ac95d399d630364e73.png"
+    ],
+    "local_image": "/images/products/p62.jpg",
+    "status": "OK"
+  },
+  {
+    "id": "p63",
+    "name": "KitKat 4 Finger Chocolate",
+    "brand": "Nestle",
+    "category": "Snacks & Biscuits",
+    "price": 40,
+    "mrp": 45,
+    "weight": "41.5g",
+    "rating": 4.7,
+    "urls": [
+      "https://images.openfoodfacts.org/images/products/890/106/302/6018/front_en.3.400.jpg"
+    ],
+    "local_image": "/images/products/p63.jpg",
+    "status": "OK"
+  },
+  {
+    "id": "p64",
+    "name": "Munch Crunchy Chocolate",
+    "brand": "Nestle",
+    "category": "Snacks & Biscuits",
+    "price": 20,
+    "mrp": 25,
+    "weight": "40g",
+    "rating": 4.6,
+    "urls": [
+      "https://images.openfoodfacts.org/images/products/890/106/302/6018/front_en.3.400.jpg"
+    ],
+    "local_image": "/images/products/p64.jpg",
+    "status": "OK"
+  },
+  {
+    "id": "p65",
+    "name": "Nestle Everyday Dairy Whitener",
+    "brand": "Nestle",
+    "category": "Dairy & Breakfast",
+    "price": 395,
+    "mrp": 440,
+    "weight": "1kg",
+    "rating": 4.5,
+    "urls": [
+      "https://assets.hyperpure.com/data/images/products/cdbb5abf71acf8ac95d399d630364e73.png"
+    ],
+    "local_image": "/images/products/p65.jpg",
+    "status": "OK"
+  },
+  {
+    "id": "p66",
+    "name": "Haldiram's Aloo Bhujia",
+    "brand": "Haldiram's",
+    "category": "Snacks & Biscuits",
+    "price": 130,
+    "mrp": 150,
+    "weight": "400g",
+    "rating": 4.7,
+    "urls": [
+      "https://images.openfoodfacts.org/images/products/890/149/136/1026/front_en.51.400.jpg"
+    ],
+    "local_image": "/images/products/p66.jpg",
+    "status": "OK"
+  },
+  {
+    "id": "p67",
+    "name": "Haldiram's Khatta Meetha Mix",
+    "brand": "Haldiram's",
+    "category": "Snacks & Biscuits",
+    "price": 120,
+    "mrp": 140,
+    "weight": "400g",
+    "rating": 4.6,
+    "urls": [
+      "https://images.openfoodfacts.org/images/products/890/149/136/1026/front_en.51.400.jpg"
+    ],
+    "local_image": "/images/products/p67.jpg",
+    "status": "OK"
+  },
+  {
+    "id": "p68",
+    "name": "Haldiram's Moong Dal Namkeen",
+    "brand": "Haldiram's",
+    "category": "Snacks & Biscuits",
+    "price": 120,
+    "mrp": 140,
+    "weight": "400g",
+    "rating": 4.6,
+    "urls": [
+      "https://images.openfoodfacts.org/images/products/890/149/136/1026/front_en.51.400.jpg"
+    ],
+    "local_image": "/images/products/p68.jpg",
+    "status": "OK"
+  },
+  {
+    "id": "p69",
+    "name": "Haldiram's Bhujia Sev",
+    "brand": "Haldiram's",
+    "category": "Snacks & Biscuits",
+    "price": 125,
+    "mrp": 145,
+    "weight": "400g",
+    "rating": 4.6,
+    "urls": [
+      "https://images.openfoodfacts.org/images/products/890/149/136/1026/front_en.51.400.jpg"
+    ],
+    "local_image": "/images/products/p69.jpg",
+    "status": "OK"
+  },
+  {
+    "id": "p70",
+    "name": "Haldiram's Soan Papdi",
+    "brand": "Haldiram's",
+    "category": "Snacks & Biscuits",
+    "price": 140,
+    "mrp": 160,
+    "weight": "250g",
+    "rating": 4.5,
+    "urls": [
+      "https://images.openfoodfacts.org/images/products/890/149/136/1026/front_en.51.400.jpg"
+    ],
+    "local_image": "/images/products/p70.jpg",
+    "status": "OK"
+  },
+  {
+    "id": "p71",
+    "name": "Tata Salt Iodized",
+    "brand": "Tata",
+    "category": "Groceries & Staples",
+    "price": 27,
+    "mrp": 30,
+    "weight": "1kg",
+    "rating": 4.8,
+    "urls": [
+      "https://www.bbassets.com/media/uploads/p/l/40081603_6-tata-salt-salt-iodized.jpg",
+      "https://www.bbassets.com/media/uploads/p/l/241600_10-tata-salt-iodized.jpg"
+    ],
+    "local_image": "/images/products/p71.jpg",
+    "status": "OK"
+  },
+  {
+    "id": "p72",
+    "name": "Tata Tea Premium",
+    "brand": "Tata",
+    "category": "Beverages",
+    "price": 250,
+    "mrp": 285,
+    "weight": "500g",
+    "rating": 4.6,
+    "urls": [
+      "https://www.bbassets.com/media/uploads/p/l/40081603_6-tata-salt-salt-iodized.jpg"
+    ],
+    "local_image": "/images/products/p72.jpg",
+    "status": "OK"
+  },
+  {
+    "id": "p73",
+    "name": "Tata Tea Gold",
+    "brand": "Tata",
+    "category": "Beverages",
+    "price": 170,
+    "mrp": 190,
+    "weight": "250g",
+    "rating": 4.7,
+    "urls": [
+      "https://www.bbassets.com/media/uploads/p/l/40081603_6-tata-salt-salt-iodized.jpg"
+    ],
+    "local_image": "/images/products/p73.jpg",
+    "status": "OK"
+  },
+  {
+    "id": "p74",
+    "name": "Tata Sampann Toor Dal",
+    "brand": "Tata",
+    "category": "Groceries & Staples",
+    "price": 175,
+    "mrp": 195,
+    "weight": "1kg",
+    "rating": 4.5,
+    "urls": [
+      "https://www.bbassets.com/media/uploads/p/l/40081603_6-tata-salt-salt-iodized.jpg"
+    ],
+    "local_image": "/images/products/p74.jpg",
+    "status": "OK"
+  },
+  {
+    "id": "p75",
+    "name": "Tata Sampann Chana Dal",
+    "brand": "Tata",
+    "category": "Groceries & Staples",
+    "price": 155,
+    "mrp": 175,
+    "weight": "1kg",
+    "rating": 4.5,
+    "urls": [
+      "https://www.bbassets.com/media/uploads/p/l/40081603_6-tata-salt-salt-iodized.jpg"
+    ],
+    "local_image": "/images/products/p75.jpg",
+    "status": "OK"
+  },
+  {
+    "id": "p76",
+    "name": "Cinthol Original Soap",
+    "brand": "Godrej",
+    "category": "Personal Care",
+    "price": 40,
+    "mrp": 45,
+    "weight": "100g",
+    "rating": 4.5,
+    "urls": [
+      "https://assets.unileversolutions.com/v1/62941798.jpg"
+    ],
+    "local_image": "/images/products/p76.jpg",
+    "status": "OK"
+  },
+  {
+    "id": "p77",
+    "name": "Good Knight Power Chips",
+    "brand": "Godrej",
+    "category": "Cleaning & Household",
+    "price": 75,
+    "mrp": 85,
+    "weight": "32 chips",
+    "rating": 4.6,
+    "urls": [
+      "https://assets.unileversolutions.com/v1/62941798.jpg"
+    ],
+    "local_image": "/images/products/p77.jpg",
+    "status": "OK"
+  },
+  {
+    "id": "p78",
+    "name": "Colgate StrongTeeth Toothpaste",
+    "brand": "Colgate",
+    "category": "Personal Care",
+    "price": 195,
+    "mrp": 220,
+    "weight": "500g",
+    "rating": 4.6,
+    "urls": [
+      "https://assets.unileversolutions.com/v1/62941798.jpg"
+    ],
+    "local_image": "/images/products/p78.jpg",
+    "status": "OK"
+  },
+  {
+    "id": "p79",
+    "name": "Colgate MaxFresh Spicy Fresh",
+    "brand": "Colgate",
+    "category": "Personal Care",
+    "price": 95,
+    "mrp": 110,
+    "weight": "150g",
+    "rating": 4.5,
+    "urls": [
+      "https://assets.unileversolutions.com/v1/62941798.jpg"
+    ],
+    "local_image": "/images/products/p79.jpg",
+    "status": "OK"
+  },
+  {
+    "id": "p80",
+    "name": "Parachute Coconut Oil",
+    "brand": "Marico",
+    "category": "Personal Care",
+    "price": 220,
+    "mrp": 250,
+    "weight": "600ml",
+    "rating": 4.8,
+    "urls": [
+      "https://assets.hyperpure.com/data/images/products/cdbb5abf71acf8ac95d399d630364e73.png"
+    ],
+    "local_image": "/images/products/p80.jpg",
+    "status": "OK"
+  },
+  {
+    "id": "p81",
+    "name": "Saffola Gold Refined Oil",
+    "brand": "Marico",
+    "category": "Groceries & Staples",
+    "price": 175,
+    "mrp": 195,
+    "weight": "1L",
+    "rating": 4.5,
+    "urls": [
+      "https://assets.hyperpure.com/data/images/products/cdbb5abf71acf8ac95d399d630364e73.png"
+    ],
+    "local_image": "/images/products/p81.jpg",
+    "status": "OK"
+  },
+  {
+    "id": "p82",
+    "name": "Patanjali Dant Kanti Toothpaste",
+    "brand": "Patanjali",
+    "category": "Personal Care",
+    "price": 70,
+    "mrp": 80,
+    "weight": "200g",
+    "rating": 4.4,
+    "urls": [
+      "https://assets.hyperpure.com/data/images/products/cdbb5abf71acf8ac95d399d630364e73.png"
+    ],
+    "local_image": "/images/products/p82.jpg",
+    "status": "OK"
+  },
+  {
+    "id": "p83",
+    "name": "Patanjali Cow Ghee",
+    "brand": "Patanjali",
+    "category": "Dairy & Breakfast",
+    "price": 480,
+    "mrp": 520,
+    "weight": "1L",
+    "rating": 4.5,
+    "urls": [
+      "https://www.bbassets.com/media/uploads/p/l/104864_8-amul-butter-pasteurised.jpg"
+    ],
+    "local_image": "/images/products/p83.jpg",
+    "status": "OK"
+  },
+  {
+    "id": "p84",
+    "name": "Mother Dairy Cow Milk",
+    "brand": "Mother Dairy",
+    "category": "Dairy & Breakfast",
+    "price": 56,
+    "mrp": 58,
+    "weight": "500ml",
+    "rating": 4.6,
+    "urls": [
+      "https://www.bbassets.com/media/uploads/p/l/104864_8-amul-butter-pasteurised.jpg"
+    ],
+    "local_image": "/images/products/p84.jpg",
+    "status": "OK"
+  },
+  {
+    "id": "p85",
+    "name": "Mother Dairy Classic Curd",
+    "brand": "Mother Dairy",
+    "category": "Dairy & Breakfast",
+    "price": 68,
+    "mrp": 72,
+    "weight": "400g",
+    "rating": 4.5,
+    "urls": [
+      "https://www.bbassets.com/media/uploads/p/l/104864_8-amul-butter-pasteurised.jpg"
+    ],
+    "local_image": "/images/products/p85.jpg",
+    "status": "OK"
+  },
+  {
+    "id": "p86",
+    "name": "Fortune Sunlite Sunflower Oil",
+    "brand": "Fortune",
+    "category": "Groceries & Staples",
+    "price": 155,
+    "mrp": 175,
+    "weight": "1L",
+    "rating": 4.4,
+    "urls": [
+      "https://assets.hyperpure.com/data/images/products/cdbb5abf71acf8ac95d399d630364e73.png"
+    ],
+    "local_image": "/images/products/p86.jpg",
+    "status": "OK"
+  },
+  {
+    "id": "p87",
+    "name": "Fortune Biryani Basmati Rice",
+    "brand": "Fortune",
+    "category": "Groceries & Staples",
+    "price": 425,
+    "mrp": 480,
+    "weight": "5kg",
+    "rating": 4.6,
+    "urls": [
+      "https://assets.hyperpure.com/data/images/products/cdbb5abf71acf8ac95d399d630364e73.png"
+    ],
+    "local_image": "/images/products/p87.jpg",
+    "status": "OK"
+  },
+  {
+    "id": "p88",
+    "name": "MDH Chunky Chat Masala",
+    "brand": "MDH",
+    "category": "Groceries & Staples",
+    "price": 55,
+    "mrp": 65,
+    "weight": "100g",
+    "rating": 4.6,
+    "urls": [
+      "https://assets.hyperpure.com/data/images/products/cdbb5abf71acf8ac95d399d630364e73.png"
+    ],
+    "local_image": "/images/products/p88.jpg",
+    "status": "OK"
+  },
+  {
+    "id": "p89",
+    "name": "MDH Garam Masala",
+    "brand": "MDH",
+    "category": "Groceries & Staples",
+    "price": 60,
+    "mrp": 70,
+    "weight": "100g",
+    "rating": 4.6,
+    "urls": [
+      "https://assets.hyperpure.com/data/images/products/cdbb5abf71acf8ac95d399d630364e73.png"
+    ],
+    "local_image": "/images/products/p89.jpg",
+    "status": "OK"
+  },
+  {
+    "id": "p90",
+    "name": "Everest Chicken Masala",
+    "brand": "Everest",
+    "category": "Groceries & Staples",
+    "price": 45,
+    "mrp": 55,
+    "weight": "50g",
+    "rating": 4.5,
+    "urls": [
+      "https://assets.hyperpure.com/data/images/products/cdbb5abf71acf8ac95d399d630364e73.png"
+    ],
+    "local_image": "/images/products/p90.jpg",
+    "status": "OK"
+  },
+  {
+    "id": "p91",
+    "name": "Appy Fizz Sparkling Apple",
+    "brand": "Parle Agro",
+    "category": "Beverages",
+    "price": 40,
+    "mrp": 45,
+    "weight": "750ml",
+    "rating": 4.4,
+    "urls": [
+      "https://images.openfoodfacts.org/images/products/544/900/005/4227/front_en.563.400.jpg"
+    ],
+    "local_image": "/images/products/p91.jpg",
+    "status": "OK"
+  },
+  {
+    "id": "p92",
+    "name": "Bailley Mineral Water",
+    "brand": "Parle Agro",
+    "category": "Beverages",
+    "price": 20,
+    "mrp": 25,
+    "weight": "1L",
+    "rating": 4.3,
+    "urls": [
+      "https://images.openfoodfacts.org/images/products/544/900/005/4227/front_en.563.400.jpg"
+    ],
+    "local_image": "/images/products/p92.jpg",
+    "status": "OK"
+  },
+  {
+    "id": "p93",
+    "name": "Funfoods Peanut Butter Crunchy",
+    "brand": "Dr Oetker",
+    "category": "Dairy & Breakfast",
+    "price": 485,
+    "mrp": 540,
+    "weight": "925g",
+    "rating": 4.6,
+    "urls": [
+      "https://assets.hyperpure.com/data/images/products/cdbb5abf71acf8ac95d399d630364e73.png"
+    ],
+    "local_image": "/images/products/p93.jpg",
+    "status": "OK"
+  },
+  {
+    "id": "p94",
+    "name": "Horlicks Original Health Drink",
+    "brand": "GSK",
+    "category": "Beverages",
+    "price": 325,
+    "mrp": 360,
+    "weight": "500g",
+    "rating": 4.6,
+    "urls": [
+      "https://assets.hyperpure.com/data/images/products/cdbb5abf71acf8ac95d399d630364e73.png"
+    ],
+    "local_image": "/images/products/p94.jpg",
+    "status": "OK"
+  },
+  {
+    "id": "p95",
+    "name": "Complan Royale Chocolate",
+    "brand": "Zydus Wellness",
+    "category": "Beverages",
+    "price": 310,
+    "mrp": 345,
+    "weight": "500g",
+    "rating": 4.4,
+    "urls": [
+      "https://assets.hyperpure.com/data/images/products/cdbb5abf71acf8ac95d399d630364e73.png"
+    ],
+    "local_image": "/images/products/p95.jpg",
+    "status": "OK"
+  },
+  {
+    "id": "p96",
+    "name": "Harpic Power Plus Toilet Cleaner",
+    "brand": "Reckitt",
+    "category": "Cleaning & Household",
+    "price": 155,
+    "mrp": 175,
+    "weight": "1L",
+    "rating": 4.6,
+    "urls": [
+      "https://assets.unileversolutions.com/v1/62941798.jpg"
+    ],
+    "local_image": "/images/products/p96.jpg",
+    "status": "OK"
+  },
+  {
+    "id": "p97",
+    "name": "Dettol Original Liquid Handwash",
+    "brand": "Reckitt",
+    "category": "Personal Care",
+    "price": 80,
+    "mrp": 90,
+    "weight": "200ml",
+    "rating": 4.7,
+    "urls": [
+      "https://assets.unileversolutions.com/v1/62941798.jpg"
+    ],
+    "local_image": "/images/products/p97.jpg",
+    "status": "OK"
+  },
+  {
+    "id": "p98",
+    "name": "Dettol Antiseptic Liquid",
+    "brand": "Reckitt",
+    "category": "Personal Care",
+    "price": 165,
+    "mrp": 185,
+    "weight": "250ml",
+    "rating": 4.7,
+    "urls": [
+      "https://assets.unileversolutions.com/v1/62941798.jpg"
+    ],
+    "local_image": "/images/products/p98.jpg",
+    "status": "OK"
+  },
+  {
+    "id": "p99",
+    "name": "Mortein All Insect Killer Spray",
+    "brand": "Reckitt",
+    "category": "Cleaning & Household",
+    "price": 175,
+    "mrp": 195,
+    "weight": "625ml",
+    "rating": 4.5,
+    "urls": [
+      "https://assets.unileversolutions.com/v1/62941798.jpg"
+    ],
+    "local_image": "/images/products/p99.jpg",
+    "status": "OK"
+  },
+  {
+    "id": "p100",
+    "name": "Amul Kool Flavoured Milk",
+    "brand": "Amul",
+    "category": "Beverages",
+    "price": 30,
+    "mrp": 35,
+    "weight": "200ml",
+    "rating": 4.5,
+    "urls": [
+      "https://www.bbassets.com/media/uploads/p/l/104864_8-amul-butter-pasteurised.jpg"
+    ],
+    "local_image": "/images/products/p100.jpg",
+    "status": "OK"
+  }
+]
